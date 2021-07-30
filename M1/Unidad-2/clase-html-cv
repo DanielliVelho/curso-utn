@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset=utf-8">
+        <title> Clase-html-CV</title>
+    </head>
+    <body>
+   
+        <H1>Nombre y Apellido</H1>
+
+        <img src="https://images.unsplash.com/photo-1562071707-7249ab429b2a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=750&amp;q=80" alt="https://images.unsplash.com/photo-1562071707-7249ab429b2a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=750&amp;q=80" class="overflowingVertical">
+
+        <H2>Edad:</H2>
+
+        <h2>Domicilio: </h2>
+
+        <div>
+        <h3> Series preferidas:</h3>
+            <li> seria a</li>
+            <li>serie b</li>
+        </div>
+
+        <div>
+        <h3> Peliculas preferidas:</h3>
+            <li> seria a</li>
+            <li>serie b</li>
+        </div>
+
+        <br>
+
+        <div>
+        <h3>Perfil</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis nobis, optio dolorum similique pariatur laboriosam quo voluptas sint rerum reprehenderit id aperiam nam expedita nulla. Debitis possimus assumenda nam sapiente!</p>
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni necessitatibus assumenda, ipsam iusto, consectetur et aut sed dolor expedita perferendis sit labore atque, provident fugiat ex id vel voluptas error.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus id cupiditate perspiciatis sint a sed modi ex, consequatur voluptatibus molestiae obcaecati fugit neque rem! Earum beatae perferendis aliquid excepturi debitis!</p>
+        </div>
+
+        <h4> Si quieres contacterme usar el siguiento formulario</h4>
+    
+    
+    
+    
+    
+    </body>
+</html>
